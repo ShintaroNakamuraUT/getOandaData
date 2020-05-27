@@ -1,4 +1,4 @@
-###Objective
+#Objective
 
 Acquisition of exchange data using Oanda api and formatting to pandas.Dataframe
 
